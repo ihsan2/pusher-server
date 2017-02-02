@@ -1,0 +1,13 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "description": "Simple server that publishes events to channel using Pusher",
+  "repository": {},
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "1.16.0",
+    "express": "4.14.1",
+    "pusher": "1.5.1"
+  }
+}
